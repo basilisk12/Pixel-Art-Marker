@@ -1,4 +1,7 @@
 # Pixel Art Maker Project
+Pixel art is a form of digital art, created through the use of software, where images are edited on the pixel level.
+
+I have used HTML, CSS and JavaScript/jQuery to create a This pixel Art Marker.
 
 ## Table of Contents
 
@@ -7,10 +10,9 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+To contribute to this project, open the CSS (styles.css), HTML (index.html) and JS (design.js)
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+If you are interested in contributing to this project, you can help to improve the CSS, and the HTML content of this project.
